@@ -1,0 +1,64 @@
+*{
+   margin: 0px;
+}
+div{
+    border-style: solid;
+}
+.general{
+    text-align: center;
+    padding-left: 20%;
+    padding-right: 20%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+#Buscador{
+    width: 80%;
+    display: inline-block;
+}
+#Categoria{
+    display: inline-block;
+    width: 17%;
+}
+.card{
+    display: inline-block;
+    width: 15%;
+}
+.barner{
+    width: 100%;
+}
+#contenedor{
+  padding: 10px;
+}
+.card{
+    padding: 10px;
+    width: 15%;
+    display: inline-block;
+    
+}
+.fila1, .fila2{
+    padding: 10px;
+}
+.imagen{
+    
+
+}
+.id2{
+   padding-right: 30%;
+   padding-left: 30%;
+}
+img{
+    padding-right: 30%;
+    padding-left: 30%;
+}
+#jaja{
+    margin-left: 30%;
+    margin-right: 30%;
+}
+#jiji{
+    border-color: aqua;
+    border-radius: 20px;
+}
+.card img{
+    width: 100%;
+    
+}
